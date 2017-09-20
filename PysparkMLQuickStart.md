@@ -321,8 +321,8 @@ for center in centers:
 
 # 源代码
 
-1. `/PysparkMLQuickStart/VectorAndDataFrame.py`
-2. `/PysparkMLQuickStart/SimpleKMeans.py`.
+1. [./PysparkMLQuickStart/VectorAndDataFrame.py](./PysparkMLQuickStart/VectorAndDataFrame.py)
+2. [./PysparkMLQuickStart/SimpleKMeans.py](./PysparkMLQuickStart/SimpleKMeans.py)
 
 # 参考
 
