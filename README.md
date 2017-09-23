@@ -12,4 +12,4 @@
 
 上面那篇文章写出来的KMeans算法是不能实际使用的, 因为数据的预处理, 标准化和可视化都还没有实现. 所以这个算法还需要改良(还没写完):
 
-[KMeans Improved]()
+[KMeans升级版](KMeansImproved.md)
